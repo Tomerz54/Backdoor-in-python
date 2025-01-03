@@ -4,5 +4,5 @@
 # NOTES:
 - This project is for educational purposes only.
 - import the following libraries using pip/pip3:
-pynput,pyautogui,keylogger ,socket ,json , subprocess,os, ,threading,sys ,shutil
-Listener , time , threading , os
+pynput ,pyautogui , keylogger , socket , json , subprocess , os ,
+threading,sys ,shutil Listener , time , threading , os
